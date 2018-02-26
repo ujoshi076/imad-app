@@ -48,7 +48,7 @@ var htmlTemplate= `<!DOCTYPE html>
 <html>
     <head>
         <title>
-            ${tile}
+            ${title}
         </title>
         <meta name="viewport" content="width-device-widtth, initial-scale-1" />
     <link href="/ui/style.css" rel="stylesheet" />
