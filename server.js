@@ -48,7 +48,7 @@ var htmlTemplate= `<!DOCTYPE html>
 <html>
     <head>
         <title>
-            Article one | Utkarsh
+            ${tile}
         </title>
         <meta name="viewport" content="width-device-widtth, initial-scale-1" />
     <link href="/ui/style.css" rel="stylesheet" />
